@@ -1,0 +1,7 @@
+C:\Repository\CalculadoraSoma\CalculadoraSoma\bin\Debug\CalculadoraSoma.exe.config
+C:\Repository\CalculadoraSoma\CalculadoraSoma\bin\Debug\CalculadoraSoma.exe
+C:\Repository\CalculadoraSoma\CalculadoraSoma\bin\Debug\CalculadoraSoma.pdb
+C:\Repository\CalculadoraSoma\CalculadoraSoma\obj\Debug\CalculadoraSoma.csproj.AssemblyReference.cache
+C:\Repository\CalculadoraSoma\CalculadoraSoma\obj\Debug\CalculadoraSoma.csproj.CoreCompileInputs.cache
+C:\Repository\CalculadoraSoma\CalculadoraSoma\obj\Debug\CalculadoraSoma.exe
+C:\Repository\CalculadoraSoma\CalculadoraSoma\obj\Debug\CalculadoraSoma.pdb
